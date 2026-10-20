@@ -1,0 +1,13 @@
+main{
+    display: flex;
+    gap: 25px;
+}
+
+body{
+    width: 500px;
+    height: 500px;
+    border-radius: 35px;
+    border-color: aqua;
+    background-color: antiquewhite;
+}
+
